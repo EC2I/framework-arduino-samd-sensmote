@@ -1,0 +1,15 @@
+{
+  "name": "framework-arduino-samd-sensmote",
+  "version": "1.0.0",
+  "description": "Arduino Wiring-based Framework for Microchip SAM D microcontrollers (Sensmote SAMD Core)",
+  "keywords": [
+    "framework",
+    "arduino",
+    "microchip",
+    "samd"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://git.ec2i.fr/Sensor/ArduinoCore-samd.git"
+  }
+}
